@@ -42,6 +42,7 @@ jobs:
       - name: Install Linux dependencies
         if: startsWith(matrix.os, 'ubuntu')
         run: |
+          sudo apt-get install xclip
           python -m pip install -U xerox
 
       - name: Install dependencies
