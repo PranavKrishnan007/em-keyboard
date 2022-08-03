@@ -67,4 +67,6 @@ tox
 
 ## Have fun!
 
+Good night
+Sweet dreams
 ✨🍰✨
